@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[geekgame Blog]]></title>
+  <link href="www.geekgame.com/atom.xml" rel="self"/>
+  <link href="www.geekgame.com/"/>
+  <updated>2016-05-15T21:48:22+08:00</updated>
+  <id>www.geekgame.com/</id>
+  <author>
+    <name><![CDATA[beSimple]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="www.geekgame.com/blog/2016/05/15/first/"/>
+    <updated>2016-05-15T21:46:37+08:00</updated>
+    <id>www.geekgame.com/blog/2016/05/15/first</id>
+    <content type="html"><![CDATA[<p>This is a test.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: www.geekgame.com/sitemap.xml 
