@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[geekgame Blog]]></title>
+  <title><![CDATA[我思故我在]]></title>
   <link href="http://besimplebegood.github.io/atom.xml" rel="self"/>
   <link href="http://besimplebegood.github.io/"/>
-  <updated>2016-05-16T13:25:49+08:00</updated>
+  <updated>2016-05-16T22:20:23+08:00</updated>
   <id>http://besimplebegood.github.io/</id>
   <author>
-    <name><![CDATA[beSimple]]></name>
+    <name><![CDATA[BeSimple]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
