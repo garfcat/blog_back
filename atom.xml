@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[geekgame Blog]]></title>
-  <link href="www.geekgame.com/atom.xml" rel="self"/>
-  <link href="www.geekgame.com/"/>
-  <updated>2016-05-15T21:48:22+08:00</updated>
-  <id>www.geekgame.com/</id>
+  <link href="http://besimplebegood.github.io/atom.xml" rel="self"/>
+  <link href="http://besimplebegood.github.io/"/>
+  <updated>2016-05-16T13:22:11+08:00</updated>
+  <id>http://besimplebegood.github.io/</id>
   <author>
     <name><![CDATA[beSimple]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[First]]></title>
-    <link href="www.geekgame.com/blog/2016/05/15/first/"/>
+    <link href="http://besimplebegood.github.io/blog/2016/05/15/first/"/>
     <updated>2016-05-15T21:46:37+08:00</updated>
-    <id>www.geekgame.com/blog/2016/05/15/first</id>
-    <content type="html"><![CDATA[<p>This is a test.</p>
+    <id>http://besimplebegood.github.io/blog/2016/05/15/first</id>
+    <content type="html"><![CDATA[<h1>This is a test.</h1>
 ]]></content>
   </entry>
   

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: www.geekgame.com/sitemap.xml 
+Sitemap: http://besimplebegood.github.io/sitemap.xml 
